@@ -9,9 +9,9 @@
   - Client DNS points to server IP
 - Windows client joined to the domain "alextech.local".
 
+![Server_Properties](Screenshots/Server-Properties.png)
 ![Client TCP/IP](Screenshots/Client-TCP-IP-Config.png)
 ![Server TCP/IP](Screenshots/Server-TCP-IP-Config.png)
-![Server_Properties](Screenshots/Server-Properties.png)
 ![Client_Joins_Domain](Screenshots/Connecting-Client-to-Domain.png)
 ---
 
