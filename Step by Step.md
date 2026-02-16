@@ -8,8 +8,10 @@
   - Server DNS points to itself (ensures AD services are always reachable)
   - Client DNS points to server IP
 - Windows client joined to the domain "alextech.local".
-  ![Client TCP/IP](Screenshots/Client-TCP-IP-Config.png)
 
+  ![Client TCP/IP](Screenshots/Client-TCP-IP-Config.png)
+![Server TCP/IP](Screenshots/Server-TCP-IP-Config.png)
+![Server_Properties](Screenshots/Server-Properties.png)
 ---
 
 ## 2. Organizational Units & Users
