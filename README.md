@@ -1,7 +1,12 @@
 [← Back to Alex's Portfolio](https://github.com/AlexB-128)
+
+
+
+
 # Active Directory Lab
 This lab simulates an enterprise Windows domain environment using virtual machines to practice Active Directory and security concepts.
 
+[View the Step-by-Step Guide Here](https://github.com/AlexB-128/Active-Directory-Lab/blob/main/Step%20by%20Step.md)
 ## Lab Environment
   - Windows Server 2022
   - Windows 11 Client
